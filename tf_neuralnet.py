@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
+Neural Network for identifying handwritten numbers using Keras and MNIST database
 Based on TensorFlow 2.0 tutorial by Python Engineer https://www.youtube.com/watch?v=LwM7xabuiIc
 """
 import os 
